@@ -1,3 +1,7 @@
+> **English summary.** FlightWise is a route planner for low-altitude flight, built for AEL Sistemas. It models terrain as a graph in Neo4j and searches it with A* to find a route between two points under the constraints of a mission. The backend is Java with Spring Boot, and there is a web front end.
+>
+> Team project from my Computer Science degree at Inteli (2023). This is a fork of the original repository; the documentation below is in Portuguese.
+
 <table>
 <tr>
 <td>
